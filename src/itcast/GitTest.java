@@ -6,4 +6,8 @@ public class GitTest {
         System.out.println("git测试代码2");
         System.out.println("git测试代码3");
     }
+    //注释
+    public void test1(){
+        System.out.println("111111");
+    }
 }
